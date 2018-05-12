@@ -1,0 +1,49 @@
+_repo: Charley-de-Milo_23889
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Willer
+    - Alexander, Ed
+    - Emshwiller, Edmund A.
+    - Emsh, Ed
+    - Emsh
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janifer, Laurence M.
+    aliases:
+    - Harris, Larry M.
+    - Harris, Laurence Mark
+    - Logan, William
+    - Janifer, Laurence Mark
+    - Janifer, Larry
+    birthdate: 1933
+    deathdate: 2002
+    gutenberg_agent_id: '25268'
+    url: http://www.gutenberg.org/2009/agents/25268
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
+description: It isn't at all obvious--at first thought--that having two perfectly
+  good, usable arms could be a real handicap to a man ...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Charley de Milo
+url: http://www.gutenberg.org/ebooks/23889
